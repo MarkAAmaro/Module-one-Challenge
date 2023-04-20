@@ -1,4 +1,4 @@
-# <Module-one-Challenge>
+# Module-one-Challenge
 
 ## Description
 
